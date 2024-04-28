@@ -1,6 +1,6 @@
 export const KR = {
    About: "CivIdle에 대하여",
-   AbuSimbel: "Abu Simbel",
+   AbuSimbel: "아부심벨",
    AbuSimbelDesc: "Double the effect of Ramesses II. All Adjacent wonders get +1 Happiness",
    AccountActiveTrade: "활성화된 거래",
    AccountChatBadge: "채팅 뱃지",
